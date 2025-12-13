@@ -1,0 +1,32 @@
+# Build artifacts
+target/
+*.exe
+*.so
+*.dylib
+*.dll
+
+# Binaries (keep only releases)
+*.zip
+!releases/*.zip
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Node modules (if any build scripts)
+node_modules/

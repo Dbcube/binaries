@@ -1,0 +1,9 @@
+[
+  {
+    "date_published": "2025-12-13",
+    "name": "query-engine",
+    "version": "v1.0.0",
+    "platforms": ["windows-x64", "linux-arm64"],
+    "download_url": "https://github.com/Dbcube/binaries/releases/download/schema-engine/schema-engine-v1.0.0-{plataform}.zip"
+  }
+]
