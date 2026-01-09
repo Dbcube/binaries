@@ -1,5 +1,12 @@
 [
   {
+    "date_published": "2026-01-08",
+    "name": "schema-engine",
+    "version": "v1.0.2",
+    "platforms": ["windows-x64", "linux-arm64"],
+    "download_url": "https://github.com/Dbcube/binaries/releases/download/schema-engine/schema-engine-v1.0.2-{plataform}.zip"
+  },
+  {
     "date_published": "2026-01-07",
     "name": "schema-engine",
     "version": "v1.0.1",
