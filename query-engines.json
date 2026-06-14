@@ -1,6 +1,6 @@
 [
   {
-    "date_published": "2026-06-13",
+    "date_published": "2026-06-14",
     "name": "query-engine",
     "version": "v1.1.1",
     "platforms": ["windows-x64", "linux-x64", "macos-x64", "macos-arm64"],
