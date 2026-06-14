@@ -1,9 +1,16 @@
 [
   {
+    "date_published": "2026-06-13",
+    "name": "query-engine",
+    "version": "v1.1.1",
+    "platforms": ["windows-x64", "linux-x64", "macos-x64", "macos-arm64"],
+    "download_url": "https://github.com/Dbcube/binaries/releases/download/query-engine/query-engine-v1.1.1-{platform}.zip"
+  },
+  {
     "date_published": "2026-02-23",
     "name": "query-engine",
     "version": "v1.0.0",
     "platforms": ["windows-x64", "linux-arm64"],
-    "download_url": "https://github.com/Dbcube/binaries/releases/download/query-engine/query-engine-v1.0.0-{plataform}.zip"
+    "download_url": "https://github.com/Dbcube/binaries/releases/download/query-engine/query-engine-v1.0.0-{platform}.zip"
   }
 ]
